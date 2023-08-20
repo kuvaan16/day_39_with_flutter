@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089286804388",
+    "project_id": "chatapptute-dae9d",
+    "storage_bucket": "chatapptute-dae9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089286804388:android:6fa15b6e6609c82051e731",
+        "android_client_info": {
+          "package_name": "com.example.day_39_with_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089286804388-jfg8dqq8np3vhbuuql8tqvq2bti9hjpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq8QTBQJkw50Ac92yoTZwzg6RT8fZIge4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089286804388-jfg8dqq8np3vhbuuql8tqvq2bti9hjpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
